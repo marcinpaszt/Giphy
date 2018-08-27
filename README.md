@@ -1,4 +1,4 @@
-# JSON-API
+# Giphy
 For this assingment, I have created a series of buttons using the <button> tag. Afterward, I created an array to hold all my buttons.
 The document.ready function holds all of the the next functions. Next I created an .onclick function to assign a value to the new user input
 and created a new dynamic button based on the used inout as well. Next, I created another .onclick function to listen for when the predetermined
