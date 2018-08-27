@@ -8,4 +8,4 @@ created new divs to assign to. I've assigned an attribute the the musicImg div o
 I've appended the musicDiv to both the musicImage tag and the p tag. Next, I used a .mouseover function to animate my gifs, which animate when on hover.
 
 
-For app demo, click here:  hhttps://marcinpaszt.github.io/JSON-API/
+For app demo, click here:  https://marcinpaszt.github.io/JSON-API/
